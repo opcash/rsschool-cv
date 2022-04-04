@@ -1,1 +1,1 @@
-# rsschool-cv
+https://opcash.github.io/rsschool-cv/cv

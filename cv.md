@@ -1,10 +1,10 @@
-# Anatoli Titkov#
-===
+# Anatoli Titkov
+
 ## Contacts: ##
 * **Discord:** Scribble Apes Аnnоuncements#3200
 * **E-mail:** anatolyi.titkov@gmail.com
 * **Phone:** +375292761827
-===
+
 ## About me: ##
 I am currently learning Front-End Development in __RSSchool__!
 ## Code exapmle ##
